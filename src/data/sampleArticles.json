@@ -1,0 +1,12 @@
+[
+  {
+    "title": "First Article",
+    "author": "Author A",
+    "content": "Content of the first article."
+  },
+  {
+    "title": "Second Article",
+    "author": "Author B",
+    "content": "Content of the second article."
+  }
+]
